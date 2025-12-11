@@ -2,19 +2,18 @@
 
 🎓 **Yazılım Mühendisliği 4. sınıf öğrencisi**  
 💻 Mobil Geliştirme: **Flutter** | **Android (Java)**  
-🗄️ Veritabanı: **SQL, MSSQL, PostgreSQL**  
+🗄️ Veritabanı: **SQL, MSSQL**  
 🔐 Siber Güvenlik ve Pentest öğreniyorum  
-📌 Erzurum, Türkiye
 
 ---
 
 ## 🔧 Kullandığım Teknolojiler
 
-- **Programlama:** Java, Dart, C#, C  
+- **Programlama:** Python, Dart, C#, C  
 - **Mobil:** Flutter, Android Studio  
 - **Veritabanı:** SQL Server, PostgreSQL  
 - **Web:** HTML, CSS, JavaScript  
-- **Araçlar:** Git, GitHub, VS Code, IntelliJ, Visual Studio  
+- **Araçlar:** Git, GitHub, VS Code, Visual Studio  
 
 ---
 
