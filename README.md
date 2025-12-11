@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Merhaba, ben Nazlı Ömeroğulları!
 
-<!--
-**nazliomerogullari/nazliomerogullari** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 **Yazılım Mühendisliği 4. sınıf öğrencisi**  
+💻 Mobil Geliştirme: **Flutter** | **Android (Java)**  
+🗄️ Veritabanı: **SQL, MSSQL, PostgreSQL**  
+🔐 Siber Güvenlik ve Pentest öğreniyorum  
+📌 Erzurum, Türkiye
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Kullandığım Teknolojiler
+
+- **Programlama:** Java, Dart, C#, C  
+- **Mobil:** Flutter, Android Studio  
+- **Veritabanı:** SQL Server, PostgreSQL  
+- **Web:** HTML, CSS, JavaScript  
+- **Araçlar:** Git, GitHub, VS Code, IntelliJ, Visual Studio  
+
+---
+
+## 📌 Üzerinde Çalıştığım Alanlar
+- Mobil uygulama geliştirme  
+- Siber güvenlik ve ağ testleri  
+- Algoritmalar ve veri yapıları  
+- Oyun ve 3D modelleme (başlangıç)  
+
+---
+
+## 📫 Bana Ulaşın
+- **LinkedIn:** https://www.linkedin.com/in/nazlicanomerogullari  
+- **GitHub:** https://github.com/nazliomerogullari  
+
+---
+
+⭐️ Eğer projelerimi beğenirsen yıldızlamayı unutma!
