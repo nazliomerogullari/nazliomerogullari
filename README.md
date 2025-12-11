@@ -5,6 +5,7 @@
 🗄️ Veritabanı: **SQL, MSSQL**  
 🔐 Siber Güvenlik ve Pentest öğreniyorum  
 
+---
 
 ## 🔧 Kullandığım Teknolojiler
 
