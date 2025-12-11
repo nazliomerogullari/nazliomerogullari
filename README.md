@@ -11,7 +11,7 @@
 
 - **Programlama:** Python, Dart, C#, C  
 - **Mobil:** Flutter, Android Studio  
-- **Veritabanı:** SQL Server, PostgreSQL  
+- **Veritabanı:** SQL Server  
 - **Web:** HTML, CSS, JavaScript  
 - **Araçlar:** Git, GitHub, VS Code, Visual Studio  
 
