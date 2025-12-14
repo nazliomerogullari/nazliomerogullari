@@ -1,8 +1,8 @@
 # 👋 Merhaba, ben Nazlı Ömeroğulları!
 
-🎓 **Yazılım Mühendisliği 4. sınıf öğrencisi**  
-💻 Mobil Geliştirme: **Flutter** | **Android (Java)**  
-🗄️ Veritabanı: **SQL, MSSQL**  
+🎓 Yazılım Mühendisliği 4. sınıf öğrencisi 
+💻 Mobil Geliştirme: Flutter | Android (Java)  
+🗄️ Veritabanı: SQL, MSSQL
 🔐 Siber Güvenlik ve Pentest öğreniyorum  
 
 ---
