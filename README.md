@@ -21,7 +21,7 @@
 - Mobil uygulama geliştirme  
 - Siber güvenlik ve ağ testleri  
 - Algoritmalar ve veri yapıları  
-- Oyun ve 3D modelleme (başlangıç)  
+- Oyun ve 3D modelleme 
 
 ---
 
