@@ -28,7 +28,7 @@
 ## 📫 Bana Ulaşın
 - **LinkedIn:** https://www.linkedin.com/in/nazlicanomerogullari  
 - **GitHub:** https://github.com/nazliomerogullari
-- **web** https://nazlican-portfolio.vercel.app/
+- **Web** https://nazlican-portfolio.vercel.app/
 
 ---
 
