@@ -1,7 +1,7 @@
 # <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHJsaWVpZzRndm14Z3R4bm9pZzRndm14Z3R4bm9pZzRndm14Z3R4&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30px"> Merhaba, Ben Nazlıcan! 
 
 <p align="left">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Yazılım+Mühendisliği+Öğrencisi;Mobil+Uygulama+Geliştirici+(Flutter);Siber+Güvenlik+Meraklısı" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&width=435&lines=Yazılım+Mühendisliği+Öğrencisi;Mobil+Uygulama+Geliştirici;Siber+Güvenlik" alt="Typing SVG" />
 </p>
 
 ---
