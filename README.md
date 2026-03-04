@@ -9,8 +9,8 @@
 ### 💫 Hakkımda
 - 🎓 Yazılım Mühendisliği 4. sınıf öğrencisiyim.
 - 📱 **Mobil Geliştirme** dünyasında Flutter ve Android (Java) ile çözümler üretiyorum.
-- 🛡️ Şu aralar **Siber Güvenlik ve Pentest** süreçlerini derinlemesine öğreniyorum.
-- 🏥 Sağlıkta Yapay Zeka (Otomatik Rapor Özetleme) üzerine projeler geliştiriyorum.
+- 🛡️ **Siber Güvenlik ve Pentest** süreçlerini derinlemesine öğreniyorum.
+- 🏥 Sağlıkta Yapay Zeka üzerine projeler geliştiriyorum.
 
 ---
 
